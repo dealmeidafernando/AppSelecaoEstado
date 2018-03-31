@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Aula03bIntent</string>
+    <string name="botao_estado">Selecione um Estado</string>
+
+    <!--ESTADOS PARA A LISTVIEW-->
+    <string-array name="estados">
+        <item>Alagoas</item>
+        <item>Bahia</item>
+        <item>Ceará</item>
+        <item>Maranhão</item>
+        <item>Minas Gerais</item>
+        <item>Paraíba</item>
+        <item>Pernambuco</item>
+        <item>Piauí</item>
+        <item>Rio de Janeiro</item>
+        <item>São Paulo</item>
+        <item>Sergipe</item>
+        <item>Rio Grande do Norte</item>
+    </string-array>
+
+</resources>

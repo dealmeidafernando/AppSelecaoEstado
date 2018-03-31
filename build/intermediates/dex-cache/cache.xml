@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/movel/Downloads/Aula03bIntent/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8090c3685303f1c816aea724260f7f1395f7e4a8">
+        <dex dex="/home/movel/Downloads/Aula03bIntent/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b0cbe707a6f3ffadda1777694116c70415826505/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/movel/Downloads/Aula03bIntent/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/movel/Downloads/Aula03bIntent/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_dbf170beeff9c0e8379fe1e28ea9150cd1602c4c/classes.dex" />
+    </item>
+
+</items>
